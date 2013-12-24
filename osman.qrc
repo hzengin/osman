@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/logos">
+        <file alias="a">images/a.jpg</file>
+        <file alias="backup">images/backup.jpg</file>
+        <file alias="exams">images/exams.jpg</file>
+        <file alias="exit">images/exit.jpg</file>
+        <file alias="grades">images/grades.jpg</file>
+        <file alias="lessons">images/lessons.jpg</file>
+        <file alias="m">images/m.jpg</file>
+        <file alias="n">images/n.jpg</file>
+        <file alias="o">images/o.jpg</file>
+        <file alias="s">images/s.jpg</file>
+        <file alias="schedule">images/schedule.jpg</file>
+        <file alias="today">images/today.jpg</file>
+        <file alias="todos">images/todos.jpg</file>
+        <file alias="notes">images/notes.jpg</file>
+    </qresource>
+</RCC>
